@@ -600,12 +600,12 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     libtime_genoff \
-    libloc_api_v02 \
-    QtiTelephonyService \
-    CNEService \
-    WfdService \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon
+    libloc_api_v02
+#     QtiTelephonyService \
+#     CNEService \
+#     WfdService \
+#     ims \
+#     qcrilmsgtunnel \
+#     PowerOffAlarm \
+#     TimeService \
+#     WfdCommon
